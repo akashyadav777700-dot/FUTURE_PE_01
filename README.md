@@ -58,9 +58,9 @@ Formatting & Tone:
 
 
 
-🏠 . AI-Generated Website Copy
+##🏠 . AI-Generated Website Copy
 
-Homepage — Hair & Care
+*Homepage — Hair & Care*
 
 Hair & Care — Your Style, Your Vibe 💜
 
