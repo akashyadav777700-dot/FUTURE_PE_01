@@ -34,7 +34,24 @@ To ensure high-quality output from the AI model, the prompt was structured using
 
 
 
-## 📋 Prompt Used
+# 📋 Prompt Used
 
 ```text
-[YAHAN APNA FINAL PROMPT PASTE KAREIN]
+Role: You are a professional website copywriter with conversion-focused web content.
+
+Context: Create high-converting website content for a salon named "Hair & Care" located in Delhi.
+
+Task:
+1) Homepage: Create a Homepage copy with a strong and attractive headline, sub-headline, short intro, and key customer benefits.
+2) Services Page: Create a Services section detailing the service menu in bullet points. Include benefits for each service and mention current active discounts.
+3) CTA Section: Create a strong Call-to-Action section including contact details, map location, and direct booking options.
+• Mobile Number: XXXXXXXX15
+• Email: hairendcare@gmail.com
+• Map Location: https://maps..google.com
+• WhatsApp for Booking: XXXXXXXX15
+
+Formatting & Tone:
+• Friendly, modern, and engaging tone specifically for young people (ages 10 to 25).
+• Use clear headings, bullet points, and relevant emojis to make the content more interesting.
+• Include a short summary section titled "Why Choose Hair & Care?".
+• Suggest a aesthetic color theme (e.g., White & Purple gradient).
