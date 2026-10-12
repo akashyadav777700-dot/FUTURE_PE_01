@@ -58,7 +58,8 @@ Formatting & Tone:
 
 ```
 
-##🏠 AI-Generated Website Copy
+
+# 🏠 AI-Generated Website Copy
 
 
 Hair & Care — Salon Website Copy 💜
