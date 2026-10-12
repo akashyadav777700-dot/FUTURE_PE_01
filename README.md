@@ -56,7 +56,7 @@ Formatting & Tone:
 • Include a short summary section titled "Why Choose Hair & Care?".
 • Suggest a aesthetic color theme (e.g., White & Purple gradient).
 
-
+'''
 
 ##🏠 AI-Generated Website Copy
 
