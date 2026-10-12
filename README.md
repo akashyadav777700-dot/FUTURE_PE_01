@@ -1,8 +1,14 @@
 # Task 1: AI Website Copy Generator for Local Businesses 🚀
 
-**Internship Track:** Prompt Engineering  
-**Organization:** Future Interns  
+
+# Project Information 👨‍💻
+
+**Project:** Hair & Care Salon Website Copywriting
+**Organization:** Future Interns
+**Internship Track:** Prompt Engineering    
 **Task Code:** FUTURE_PE_01  
+**Created By:** Akash Yadav
+**GitHub Repository:** [Add your repository link]
 
 
 
@@ -155,15 +161,15 @@ Benefits:
 
 Note: The following are suggested promotional ideas, not verified active discounts. Actual offers should be confirmed by the salon before publication.
 
-✨ Glow-Up Special
+**✨ Glow-Up Special**
 
 Get 10% off selected haircuts.
 
-👯 Bring Your Bestie
+**👯 Bring Your Bestie**
 
 Get a special group booking deal when you and a friend book together.
 
-💜 Hair Care Combo
+**💜 Hair Care Combo**
 
 Bundle a haircut with a conditioning treatment at a promotional price.
 
@@ -213,3 +219,9 @@ Contact Hair & Care today and take the first step towards your new style!
 **5. Recommended Website Colour Scheme 🎨**
 
 A white and purple aesthetic creates a modern, clean, aHair & Care — Salon Website Copy 💜
+
+
+# Conclusion ✅
+
+This project demonstrates how a structured prompt can be used to generate organized marketing content for a local business.
+Before publishing, replace masked contact details, add the salon's exact address, and confirm actual prices, offers, and opening hours.
