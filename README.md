@@ -221,7 +221,9 @@ Contact Hair & Care today and take the first step towards your new style!
 A white and purple aesthetic creates a modern, clean, aHair & Care — Salon Website Copy 💜
 
 
+
 # Conclusion ✅
 
 This project demonstrates how a structured prompt can be used to generate organized marketing content for a local business.
+
 Before publishing, replace masked contact details, add the salon's exact address, and confirm actual prices, offers, and opening hours.
